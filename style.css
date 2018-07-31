@@ -8,7 +8,7 @@ html, body {
 }
 
 .table {
-  border: 10px;
+  border-width: 10px;
 }
 
 .article {
@@ -16,7 +16,7 @@ html, body {
 }
 
 .aside {
-  
+
 }
 
 /* ===== ===== ===== ===== Grid ===== ===== ===== ===== */
