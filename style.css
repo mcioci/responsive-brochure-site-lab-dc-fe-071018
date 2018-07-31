@@ -8,7 +8,7 @@ html, body {
 }
 
 .table {
-  border-width: 10px;
+  border: 1;
   border-color: red;
 }
 
