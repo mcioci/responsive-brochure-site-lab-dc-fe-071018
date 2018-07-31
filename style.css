@@ -9,6 +9,7 @@ html, body {
 
 .table {
   border-width: 10px;
+  border-color: red;
 }
 
 .article {
