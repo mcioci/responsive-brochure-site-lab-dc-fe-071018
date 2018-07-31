@@ -7,6 +7,10 @@ html, body {
   background-color: #fff;
 }
 
+.grid-container {
+  display: grid;
+}
+
 .table {
   border: 1;
   border-color: red;
