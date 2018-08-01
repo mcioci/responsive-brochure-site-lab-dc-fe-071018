@@ -1,18 +1,25 @@
 /* ===== ===== ===== ===== General ===== ===== ===== ===== */
-/*html, body {
+html, body {
   height: 100%;
   min-height: 100%;
   margin: 0;
   padding: 0;
   background-color: #fff;
 }
-*/
+
+/* ===== ===== ===== ===== Grid ===== ===== ===== ===== */
+/* ===== ===== ===== ===== layout-grid ===== ===== ===== ===== */
 .grid-container {
   display: grid;
-  grid-row-gap: 50px;
-  grid-column-gap: 50px;
+  grid-row-gap: 15px;
+  grid-column-gap: 15px;
+  grid-template-columns: 1fr 4fr 1fr
+  
 }
-/*
+
+
+
+
 .table {
   border: 1;
   border-color: red;
@@ -26,10 +33,7 @@
 
 }
 
-/* ===== ===== ===== ===== Grid ===== ===== ===== ===== */
 
-
-/* ===== ===== ===== ===== layout-grid ===== ===== ===== ===== */
 
 
 
